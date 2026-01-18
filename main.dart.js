@@ -83886,7 +83886,7 @@ A.LI.prototype={
 N(a){var s,r=null,q=t.dH
 q=A.c([A.axQ(r,$.eW().$1$0(q),q)],t.Ds)
 s=A.v1(r,r,"Poppins",B.u3,r)
-return A.aKN(new A.zS(this.c?"/products":"/login",A.aT6(),"Grocery Demo",s,!1,r),q)}}
+return A.aKN(new A.zS(this.c?"/products":"/",A.aT6(),"Grocery Demo",s,!1,r),q)}}
 A.asQ.prototype={
 $0(){return this.a},
 $S:528}
@@ -84159,7 +84159,7 @@ $0(){A.pn(this.a,"/login",t.X)},
 $S:0}
 A.tT.prototype={
 N(a){var s=null,r=A.h0(s,s,B.z,s,s,B.AI,s,s,s,s,s,s,s),q=A.c([B.A,A.az(B.d.aI(25.5),B.l.E()>>>16&255,B.l.E()>>>8&255,B.l.E()&255),A.az(B.d.aI(229.5),B.l.E()>>>16&255,B.l.E()>>>8&255,B.l.E()&255)],t.t_),p=t.p
-return A.l_(s,s,A.uO(B.d1,A.c([r,A.h0(s,new A.c0(B.EX,A.eB(A.c([A.KQ("assets/images/carrot_splashscreen.png",B.F,B.f8),B.kR,B.UC,B.kR,B.UB,B.eV,A.dH(A.yt(B.UG,new A.aau(a),A.yv(s,s,B.bt,s,s,s,s,s,s,s,s,s,s,s,new A.c7(A.eX(19),B.o),s,s,s,s,s)),67,1/0),B.eV],p),B.a1,B.k5,B.Y),s),B.z,s,s,new A.db(s,s,s,s,s,new A.tx(B.ig,B.lI,B.cP,q,B.HZ,s),B.aX),s,s,s,s,s,s,1/0)],p),B.R,B.dH),s,s)}}
+return A.l_(s,s,A.uO(B.d1,A.c([r,A.h0(s,new A.c0(B.EX,A.eB(A.c([A.KQ("assets/images/carrot_splash_page.png",B.F,B.f8),B.kR,B.UC,B.kR,B.UB,B.eV,A.dH(A.yt(B.UG,new A.aau(a),A.yv(s,s,B.bt,s,s,s,s,s,s,s,s,s,s,s,new A.c7(A.eX(19),B.o),s,s,s,s,s)),67,1/0),B.eV],p),B.a1,B.k5,B.Y),s),B.z,s,s,new A.db(s,s,s,s,s,new A.tx(B.ig,B.lI,B.cP,q,B.HZ,s),B.aX),s,s,s,s,s,s,1/0)],p),B.R,B.dH),s,s)}}
 A.aau.prototype={
 $0(){A.pn(this.a,"/signin_landing",t.X)},
 $S:0}
@@ -84288,7 +84288,7 @@ A.VD.prototype={
 aC(){this.aV()
 A.yW(B.Ey,new A.aqa(this),t.P)},
 N(a){var s=null
-return A.l_(s,B.bt,A.em(A.fF(A.c([A.KQ("assets/images/carrot_SplashPage.png",B.F,B.f8),B.yS,A.eB(B.GG,B.aI,B.V,B.cI)],t.p),B.a1,B.k6,B.Y),s,s),s,s)}}
+return A.l_(s,B.bt,A.em(A.fF(A.c([A.KQ("assets/images/carrot_splash_page.png",B.F,B.f8),B.yS,A.eB(B.GG,B.aI,B.V,B.cI)],t.p),B.a1,B.k6,B.Y),s,s),s,s)}}
 A.aqa.prototype={
 $0(){var s,r=this.a.c
 if(r!=null){s=t.X
